@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="dimen_min">12dp</dimen>
+    <dimen name="dimen_default">16dp</dimen>
+    <dimen name="dimen_medium">20dp</dimen>
+    <dimen name="dimen_max">24dp</dimen>
+    <dimen name="dimen_max_larg">30dp</dimen>
+    <dimen name="width_column_table">150dp</dimen>
+    <dimen name="width_input">200dp</dimen>
+    <dimen name="width_container_form">410dp</dimen>
+    <dimen name="width_btn">250dp</dimen>
+    <dimen name="height_space_medium">100dp</dimen>
+    <dimen name="height_space_min">50dp</dimen>
+    <dimen name="height_space_max">150dp</dimen>
+
+    <dimen name="height_image_detail">250dp</dimen>
+    <dimen name="width_image_detail">150dp</dimen>
+
+</resources>

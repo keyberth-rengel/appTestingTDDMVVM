@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">appTestingTDDMVVM</string>
+
+    <!--    variables -->
+    <string name="login">Iniciar Sesion</string>
+    <string name="email">Correo Electronico</string>
+    <string name="password">Contraseña</string>
+    <string name="goBackHome">Volver al Inicio</string>
+    <string name="day">Dia</string>
+    <string name="hour">Hora</string>
+    <string name="username">User Name</string>
+    <string name="key_sp_user_name">key_sp_user_name_private</string>
+    <string name="key_sp_user_pass">key_sp_user_pass</string>
+    <string name="example_date">00/00/0000</string>
+    <string name="example_hour">00:00</string>
+    <string name="list_of_user">Lista de usuario</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="list_of_favorites">Lista de Favoritos</string>
+    <string name="owner">Owner</string>
+    <string name="title">Titulo</string>
+    <string name="description">Descripcion</string>
+    <string name="picture">Imagen</string>
+    <string name="home">Home</string>
+    <string name="list_of_posts">Posts</string>
+    <string name="favorites">Favoritos</string>
+    <string name="details">Detalle</string>
+    <string name="my_favorites">Favoritos</string>
+    <string name="add_favorites">Agregar a favoritos</string>
+    <string name="sign_off">Sign Off</string>
+    <string name="create_at">Create at</string>
+    <string name="vote_average">Promedio de votos</string>
+
+</resources>
